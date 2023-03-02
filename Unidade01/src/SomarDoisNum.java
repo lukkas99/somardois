@@ -10,7 +10,7 @@ class SomarDoisNum {
 		//Leituras
 		System.out.println("Digite um numero");
 		num1 = sc.nextInt();
-		System.out.println("Digite outro numero");
+		System.out.println("Digite outro number");
 		num2 = sc.nextInt();
 		//Somar
 		soma = num1 + num2;
