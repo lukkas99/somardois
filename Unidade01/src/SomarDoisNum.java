@@ -1,3 +1,9 @@
+/*
+ TI2 - Exercício 1 - 03 / 03 / 2023
+ Author: Lucas Morato de Oliveira Xavier
+ Matricula: 541509
+*/
+
 import java.util.*;
 
 class SomarDoisNum {
